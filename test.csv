@@ -1,0 +1,9 @@
+﻿city_a,city_b,Cij,distance,cii,cjj
+Beijing,Urumqi,11,2365719.441,19820,200
+Chongqing,Shanghai,20,1289171.811,448,6777
+Chongqing,Kunming,5,714932.6758,448,150
+Guangzhou,Nanjing,10,1088458.298,842,490
+Shanghai,Taipei,10,690290.5527,6777,676
+Guangzhou,Shenyang,3,2280896.031,842,113
+Harbin,Changchun,1,221532.8429,150,52
+Chongqing,Guangzhou,8,933128.6479,448,842
